@@ -1,0 +1,26 @@
+-- HTML TAGS Specification
+--10 distinct HTML tags used in index.html
+
+<link>
+<script>
+<section>
+<div>
+<h1>
+<button>
+<img>
+<ul>
+<li>
+<footer>
+
+
+-- CSS TAGS Specification
+-- 5 CSS Tags used in the code
+
+border-radius
+background
+background-size
+animation
+height
+
+- JavaScript is used to add interactivity, such as showing alerts when buttons are clicked.
+- Bootstrap is used for responsive layout and styling, providing pre-built classes for grid structure, buttons, and typography.
